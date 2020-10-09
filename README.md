@@ -1,0 +1,2 @@
+# GVD
+Global Variable Detection
